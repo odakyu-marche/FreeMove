@@ -328,7 +328,6 @@ namespace FreeMove
         private void Reset()
         {
             textBox_From.Text = "";
-            textBox_To.Text = "";
             textBox_From.Focus();
         }
 
